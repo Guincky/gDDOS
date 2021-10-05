@@ -1,1 +1,1 @@
-Sistema de DDOS web.
+Sistema de DDOS web em python.
